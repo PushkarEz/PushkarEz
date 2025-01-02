@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pushkar Shinde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://media3.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.webp?cid=790b7611mz2grj1n6eunzepjjqahxwmc05cyxynuk6568zo1&ep=v1_gifs_search&rid=giphy.webp&ct=g](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611t04w1b1mrp1g7b22pj0sy0inwngq7t9ryd47hgsu&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.webp?cid=790b7611mz2grj1n6eunzepjjqahxwmc05cyxynuk6568zo1&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkarez&label=Profile%20views&color=0e75b6&style=flat" alt="pushkarez" /> </p>
 
