@@ -1,17 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pushkar Shinde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.webp?cid=790b7611mz2grj1n6eunzepjjqahxwmc05cyxynuk6568zo1&ep=v1_gifs_search&rid=giphy.webp&ct=g">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkarez&label=Profile%20views&color=0e75b6&style=flat" alt="pushkarez" /> </p>
-
-- 🌱 I’m currently learning  **Web Devlopment**
-
-- 💬 Ask me about **html , css , js**
-
-- 📫 How to reach me **pushkarshinde08@gmail.com**
-
-- ⚡ Fun fact **I am Lazyy**
-
+# 💫 About Me:
+🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pushkar-shinde16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkar-shinde16" height="30" width="40" /></a>
