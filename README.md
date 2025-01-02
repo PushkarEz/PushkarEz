@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+🔭 **I’m currently working on:**  <br>Learning Full Stack Web Devlopment.<br><br>🌱 **I’m currently learning:**  <br>Web Devlopment<br><br>💬 **Ask me about:**  <br>HTML, CSS, JavaScript.<br><br>⚡ **Fun fact:**  <br>I am Lazyy.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pushkar-shinde16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkar-shinde16" height="30" width="40" /></a>
