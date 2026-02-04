@@ -1,3 +1,3 @@
 ## 🎮 Mini Browser Game
 
-▶ Play here: https://YOUR_USERNAME.github.io/pushkarez/
+▶ Play here: https://pushkarez.github.io/pushkarez/
