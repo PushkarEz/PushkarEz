@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Not a senior. Not pretending to be.<br><br>I’m learning DevSecOps by watching how systems fail,<br>then figuring out why.<br><br>Automation over effort.<br>Understanding over shortcuts.<br><br>If a task feels repetitive,<br>it’s probably waiting to be automated.<br><br>Lazy by design.<br>Creative by necessity.</p>
+<p align="left">Not a senior. Not pretending to be.<br><br>I’m learning DevOps by watching how systems fail,<br>then figuring out why.<br><br>Automation over effort.<br>Understanding over shortcuts.<br><br>If a task feels repetitive,<br>it’s probably waiting to be automated.<br><br>Lazy by design.<br>Creative by necessity.</p>
 
 ###
 
