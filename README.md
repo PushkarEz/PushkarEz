@@ -1,3 +1,4 @@
+
 <h1 align="left">Automating things so I can be lazy later...</h1>
 
 ###
@@ -14,7 +15,20 @@
 
 ###
 
-<p align="left">Not a senior. Not pretending to be.<br><br>I’m learning DevOps by watching how systems fail,<br>then figuring out why.<br><br>Automation over effort.<br>Understanding over shortcuts.<br><br>If a task feels repetitive,<br>it’s probably waiting to be automated.<br><br>Lazy by design.<br>Creative by necessity.</p>
+<p align="left">Not an AI expert. Not pretending to be.<br><br>
+I'm exploring AI/ML by building things,<br>
+breaking them, and understanding why.<br><br>
+Python over hype.<br>
+Understanding over shortcuts.<br><br>
+From machine learning to LLMs,<br>
+from RAG pipelines to AI-powered tools,<br>
+I'm curious about what intelligent systems can do.<br><br>
+If something can be automated,<br>
+I'm probably trying to build it with AI.<br><br>
+Always experimenting.<br>
+Always learning.<br><br>
+Lazy by design.<br>
+Creative by necessity.</p>
 
 ###
 
