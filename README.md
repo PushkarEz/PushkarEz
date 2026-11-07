@@ -1,4 +1,3 @@
-```html
 <h1 align="left">Automating things so I can be lazy later...</h1>
 
 ###
@@ -15,19 +14,7 @@
 
 ###
 
-<p align="left">Not a senior. Not pretending to be.<br><br>
-An E&TC engineer exploring AI, Cloud, DevOps and Cybersecurity.<br><br>
-I enjoy building things with AI,<br>
-experimenting with new technologies,<br>
-and automating problems worth solving.<br><br>
-From intelligent tools to cloud infrastructure,<br>
-I'm curious about how things work behind the scenes.<br><br>
-Building over browsing.<br>
-Understanding over shortcuts.<br>
-Automation over repetition.<br><br>
-Always learning. Always experimenting.<br><br>
-Lazy by design.<br>
-Creative by necessity.</p>
+<p align="left">Not a senior. Not pretending to be.<br><br>I’m learning DevOps by watching how systems fail,<br>then figuring out why.<br><br>Automation over effort.<br>Understanding over shortcuts.<br><br>If a task feels repetitive,<br>it’s probably waiting to be automated.<br><br>Lazy by design.<br>Creative by necessity.</p>
 
 ###
 
@@ -66,6 +53,8 @@ Creative by necessity.</p>
   </a>
 </div>
 
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pushkarez/pushkarez/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pushkarez/pushkarez/output/pacman-contribution-graph.svg">
@@ -73,4 +62,3 @@ Creative by necessity.</p>
 </picture>
 
 ###
-```
