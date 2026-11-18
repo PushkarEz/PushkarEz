@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PushkarEz/PushkarEz/main/banner.svg" alt="Pushkar Shinde Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/PushkarEz/PushkarEz/main/banner.svg?v=202611181204" alt="Pushkar Shinde Banner" width="100%" />
 </p>
 
 <h1 align="center">Pushkar Shinde</h1>
