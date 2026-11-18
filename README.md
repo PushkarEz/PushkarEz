@@ -28,69 +28,67 @@ Final-year Electronics &amp; Telecommunication student stepping into AI engineer
 
 ---
 
-### `// Projects`
+## Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://bytex.onrender.com/"><b>PhishGuard</b></a> &nbsp;·&nbsp; <code>Live</code><br/>
-      AI-powered URL security analyzer using VirusTotal &amp; Groq API, with breach, password, and extension tools.<br/><br/>
-      <code>Python</code> · <code>Flask</code> · <code>VirusTotal</code> · <code>Groq API</code>
-    </td>
-    <td width="50%" valign="top">
-      <b>CipherX</b> &nbsp;·&nbsp; <code>Experimental</code><br/>
-      Local Python desktop voice assistant pairing speech recognition (ASR), TTS, and Ollama for spoken replies and OS automation.<br/><br/>
-      <code>Python</code> · <code>Ollama</code> · <code>ASR</code> · <code>TTS</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>PDF Chat RAG</b> &nbsp;·&nbsp; <code>In Progress</code><br/>
-      Document Q&amp;A pipeline exploring PDF extraction, chunking, Sentence Transformers, FAISS search, and Ollama.<br/><br/>
-      <code>Python</code> · <code>FAISS</code> · <code>Sentence Transformers</code> · <code>Ollama</code>
-    </td>
-    <td width="50%" valign="top">
-      <b>Python Execution Visualizer</b> &nbsp;·&nbsp; <code>Learning</code><br/>
-      Learning-focused Python tool built to visually explain step-by-step code execution and variable state.<br/><br/>
-      <code>Python</code>
-    </td>
-  </tr>
-</table>
+### PhishGuard &nbsp;![Live](https://img.shields.io/badge/Live-10B981?style=flat-square) &nbsp;[![Demo](https://img.shields.io/badge/Open_Demo-0A0A0A?style=flat-square&logo=render&logoColor=white)](https://bytex.onrender.com/) &nbsp;[![Case Study](https://img.shields.io/badge/Case_Study-1E293B?style=flat-square)](https://pushkarez.vercel.app/projects/phishguard)
+> AI-powered URL security analyzer inspecting suspicious links with **VirusTotal** and explaining threats in plain language via **Groq API**, with breach, password, and browser extension tools.
+>
+> `Python` · `Flask` · `VirusTotal API` · `Groq API`
+
+### CipherX &nbsp;![Experimental](https://img.shields.io/badge/Experimental-8B5CF6?style=flat-square) &nbsp;[![Case Study](https://img.shields.io/badge/Case_Study-1E293B?style=flat-square)](https://pushkarez.vercel.app/projects/cipherx)
+> Local Python desktop voice assistant pairing **Speech Recognition (ASR)** and **TTS** with **Ollama** local LLMs for spoken replies and system automation (screenshots, files, browser &amp; YouTube control).
+>
+> `Python` · `Ollama` · `ASR` · `TTS`
+
+### PDF Chat RAG &nbsp;![In Progress](https://img.shields.io/badge/In_Progress-3B82F6?style=flat-square) &nbsp;[![Case Study](https://img.shields.io/badge/Case_Study-1E293B?style=flat-square)](https://pushkarez.vercel.app/projects/pdf-chat)
+> Document Q&amp;A pipeline exploring PDF extraction, overlapping chunking, **Sentence Transformer** embeddings, **FAISS** vector search, and local **Ollama** answering.
+>
+> `Python` · `FAISS` · `Sentence Transformers` · `Ollama`
+
+### Python Execution Visualizer &nbsp;![Learning](https://img.shields.io/badge/Learning-F59E0B?style=flat-square) &nbsp;[![Case Study](https://img.shields.io/badge/Case_Study-1E293B?style=flat-square)](https://pushkarez.vercel.app/projects/python-visualizer)
+> Learning-focused Python tool built to visually explain step-by-step code execution, control flow, and variable state.
+>
+> `Python`
 
 ---
 
-### `// Milestones & Focus`
+## Milestones &amp; Focus
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Hackathons &amp; Competitions</b><br/><br/>
-      • <b>Quantum Arena</b> — Shortlisted (24h Hackathon)<br/>
-      • <b>Code4EdTech</b> — Awarded <b>25% Scholarship</b><br/>
-      • <b>COEP Competition</b> — Presented <b>EV Parking System</b>
-    </td>
-    <td width="50%" valign="top">
-      <b>Currently Exploring</b><br/><br/>
-      • Local LLMs &amp; prompt grounding (Ollama)<br/>
-      • RAG &amp; vector search (FAISS, Embeddings)<br/>
-      • Voice AI loops &amp; FastAPI / Supabase
-    </td>
-  </tr>
-</table>
+- **Quantum Arena (24h Hackathon)** — Shortlisted after building and pitching a working prototype
+- **Code4EdTech Hackathon** — Awarded a **25% scholarship**
+- **COEP Project Competition** — Presented [**EV Parking System**](https://pushkarez.vercel.app/projects/ev-parking)
+
+<details>
+  <summary><b>What I'm currently exploring in my AI Lab</b></summary>
+  <br/>
+  <ul>
+    <li><b>Local LLMs &amp; Grounding</b> — prompt engineering &amp; structured responses with Ollama</li>
+    <li><b>RAG Pipelines</b> — chunking strategies, dense embeddings &amp; FAISS similarity tuning</li>
+    <li><b>Voice AI &amp; Backends</b> — low-latency ASR/TTS loops, FastAPI &amp; Supabase</li>
+  </ul>
+</details>
 
 ---
 
-### `// Stack`
+## Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,html,css,flask,fastapi,supabase,git,github,vscode,postman&theme=dark&perline=11" alt="Tech Stack" />
 </p>
 
-<sub>Also building with: `Ollama` · `RAG` · `FAISS` · `Sentence Transformers` · `NumPy` · `Pandas` · `Groq API`</sub>
+<sub><b>AI &amp; Data:</b> `Ollama` · `RAG` · `FAISS` · `Sentence Transformers` · `NumPy` · `Pandas` · `Groq API`</sub>
 
 ---
 
-### `// Activity`
+## Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PushkarEz&bg_color=0A0A0A&color=A3E635&line=A3E635&point=F2F2F2&area=true&hide_border=true&custom_title=Contribution%20Graph"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   <picture>
@@ -109,5 +107,10 @@ Final-year Electronics &amp; Telecommunication student stepping into AI engineer
 </div>
 
 <p align="center">
-  <sub>Portfolio: <a href="https://pushkarez.vercel.app/">pushkarez.vercel.app</a> &nbsp;·&nbsp; <a href="mailto:pushkarshinde08@gmail.com">pushkarshinde08@gmail.com</a></sub>
+  <sub><i>"Machines take me by surprise with great frequency." — Alan Turing</i></sub><br/>
+  <sub><a href="https://pushkarez.vercel.app/">pushkarez.vercel.app</a> &nbsp;·&nbsp; <a href="mailto:pushkarshinde08@gmail.com">pushkarshinde08@gmail.com</a></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:111827,100:0A0A0A&height=90&section=footer" width="100%" alt="" />
 </p>
