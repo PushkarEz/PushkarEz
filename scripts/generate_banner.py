@@ -8,7 +8,6 @@ ts = now.strftime("%Y%m%d%H%M")
 
 if 5 <= hour < 12:
     theme = {
-        "phase": "MORNING",
         "sky_top": "#172554",
         "sky_bot": "#38BDF8",
         "city_a": "#1E3A5F",
@@ -25,7 +24,6 @@ if 5 <= hour < 12:
     }
 elif 12 <= hour < 17:
     theme = {
-        "phase": "AFTERNOON",
         "sky_top": "#0369A1",
         "sky_bot": "#7DD3FC",
         "city_a": "#1E3A5F",
@@ -43,7 +41,6 @@ elif 12 <= hour < 17:
     }
 elif 17 <= hour < 20:
     theme = {
-        "phase": "EVENING",
         "sky_top": "#3B0764",
         "sky_bot": "#F97316",
         "city_a": "#1E1B3A",
@@ -59,7 +56,6 @@ elif 17 <= hour < 20:
     }
 else:
     theme = {
-        "phase": "NIGHT",
         "sky_top": "#060914",
         "sky_bot": "#0B1328",
         "city_a": "#0F172A",
@@ -159,7 +155,7 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="9
   <rect x="160" y="32" width="4" height="116" fill="#1A1E2B" />
   <rect x="52" y="92" width="220" height="4" fill="#1A1E2B" />
 
-  <!-- Top-Right Pixel Lab Card (Clean placement, no overlap with monitor) -->
+  <!-- Top-Right Pixel Lab Card -->
   <rect x="666" y="20" width="194" height="58" fill="#10131A" />
   <rect x="666" y="20" width="194" height="2" fill="#27272A" />
   <rect x="666" y="76" width="194" height="2" fill="#27272A" />
@@ -168,7 +164,7 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="9
   <rect x="678" y="32" width="6" height="6" fill="{theme['accent']}" class="led-1" />
   <text x="692" y="39" fill="#F2F2F2" font-family="monospace" font-size="12" font-weight="bold">PUSHKAR_AI_LAB</text>
   <text x="678" y="55" fill="#A1A1AA" font-family="monospace" font-size="10">21Y · AI / ML</text>
-  <text x="678" y="70" fill="{theme['accent']}" font-family="monospace" font-size="10">{theme['phase']} · PUNE, IN</text>
+  <text x="678" y="70" fill="{theme['accent']}" font-family="monospace" font-size="10">PUNE, INDIA</text>
 
   <!-- Desk Surface -->
   <rect x="290" y="176" width="560" height="10" fill="#222633" />
@@ -265,4 +261,4 @@ readme = re.sub(
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(readme)
 
-print(f"Updated banner.svg and README.md for {theme['phase']}")
+print("Updated banner.svg and README.md")
