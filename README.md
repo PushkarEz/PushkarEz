@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Pushkar Shinde — AI Engineering Lab Pixel Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/PushkarEz/PushkarEz/main/banner.svg?v=202611181158" alt="Pushkar Shinde — AI Engineering Lab Pixel Banner" width="100%" />
 </p>
 
 <h1 align="center">Pushkar Shinde</h1>

@@ -88,16 +88,16 @@
   <rect x="160" y="32" width="4" height="116" fill="#1A1E2B" />
   <rect x="52" y="92" width="220" height="4" fill="#1A1E2B" />
 
-  <!-- Top-Right Pixel Lab Card (Shorter 21Y · AI / ML + Live Time Phase) -->
-  <rect x="612" y="22" width="248" height="60" fill="#10131A" />
-  <rect x="612" y="22" width="248" height="2" fill="#27272A" />
-  <rect x="612" y="80" width="248" height="2" fill="#27272A" />
-  <rect x="612" y="22" width="2" height="60" fill="#27272A" />
-  <rect x="858" y="22" width="2" height="60" fill="#27272A" />
-  <rect x="624" y="34" width="6" height="6" fill="#FBBF24" class="led-1" />
-  <text x="638" y="41" fill="#F2F2F2" font-family="monospace" font-size="12" font-weight="bold">PUSHKAR_AI_LAB</text>
-  <text x="624" y="57" fill="#A1A1AA" font-family="monospace" font-size="10">21Y · AI / ML</text>
-  <text x="624" y="72" fill="#FBBF24" font-family="monospace" font-size="10">MORNING · 11:47 AM IST</text>
+  <!-- Top-Right Pixel Lab Card (Clean placement, no overlap with monitor) -->
+  <rect x="666" y="20" width="194" height="58" fill="#10131A" />
+  <rect x="666" y="20" width="194" height="2" fill="#27272A" />
+  <rect x="666" y="76" width="194" height="2" fill="#27272A" />
+  <rect x="666" y="20" width="2" height="58" fill="#27272A" />
+  <rect x="858" y="20" width="2" height="58" fill="#27272A" />
+  <rect x="678" y="32" width="6" height="6" fill="#FBBF24" class="led-1" />
+  <text x="692" y="39" fill="#F2F2F2" font-family="monospace" font-size="12" font-weight="bold">PUSHKAR_AI_LAB</text>
+  <text x="678" y="55" fill="#A1A1AA" font-family="monospace" font-size="10">21Y · AI / ML</text>
+  <text x="678" y="70" fill="#FBBF24" font-family="monospace" font-size="10">MORNING · PUNE, IN</text>
 
   <!-- Desk Surface -->
   <rect x="290" y="176" width="560" height="10" fill="#222633" />
