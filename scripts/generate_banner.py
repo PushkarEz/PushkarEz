@@ -252,3 +252,19 @@ with open("banner.svg", "w", encoding="utf-8") as f:
     f.write(svg)
 
 print(f"Updated banner.svg for {theme['phase']} ({time_str})")
+
+import re
+
+ts = now.strftime("%Y%m%d%H%M")
+with open("README.md", "r", encoding="utf-8") as f:
+    readme = f.read()
+
+fresh_url = f"https://raw.githubusercontent.com/PushkarEz/PushkarEz/main/banner.svg?v={ts}"
+readme = re.sub(
+    r'(\./banner\.svg(?:\?v=\d+)?|https://raw\.githubusercontent\.com/PushkarEz/PushkarEz/main/banner\.svg(?:\?v=\d+)?)',
+    fresh_url,
+    readme,
+)
+
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(readme)
