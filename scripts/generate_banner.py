@@ -1,9 +1,10 @@
+import re
 from datetime import datetime, timedelta, timezone
 
 IST = timezone(timedelta(hours=5, minutes=30))
 now = datetime.now(IST)
 hour = now.hour
-time_str = now.strftime("%I:%M %p IST").lstrip("0")
+ts = now.strftime("%Y%m%d%H%M")
 
 if 5 <= hour < 12:
     theme = {
@@ -33,7 +34,7 @@ elif 12 <= hour < 17:
         "city_lit": "0.05",
         "accent": "#38BDF8",
         "celestial": """
-  <!-- Bright Afternoon Sun + Pixel Cloud -->
+  <!-- Bright Afternoon Sun + Pixel Clouds -->
   <rect x="218" y="42" width="20" height="20" fill="#FEF08A" />
   <rect x="74" y="54" width="38" height="10" fill="#E0F2FE" opacity="0.85" />
   <rect x="82" y="48" width="22" height="6" fill="#F0F9FF" opacity="0.9" />
@@ -158,16 +159,16 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="9
   <rect x="160" y="32" width="4" height="116" fill="#1A1E2B" />
   <rect x="52" y="92" width="220" height="4" fill="#1A1E2B" />
 
-  <!-- Top-Right Pixel Lab Card (Shorter 21Y · AI / ML + Live Time Phase) -->
-  <rect x="612" y="22" width="248" height="60" fill="#10131A" />
-  <rect x="612" y="22" width="248" height="2" fill="#27272A" />
-  <rect x="612" y="80" width="248" height="2" fill="#27272A" />
-  <rect x="612" y="22" width="2" height="60" fill="#27272A" />
-  <rect x="858" y="22" width="2" height="60" fill="#27272A" />
-  <rect x="624" y="34" width="6" height="6" fill="{theme['accent']}" class="led-1" />
-  <text x="638" y="41" fill="#F2F2F2" font-family="monospace" font-size="12" font-weight="bold">PUSHKAR_AI_LAB</text>
-  <text x="624" y="57" fill="#A1A1AA" font-family="monospace" font-size="10">21Y · AI / ML</text>
-  <text x="624" y="72" fill="{theme['accent']}" font-family="monospace" font-size="10">{theme['phase']} · {time_str}</text>
+  <!-- Top-Right Pixel Lab Card (Clean placement, no overlap with monitor) -->
+  <rect x="666" y="20" width="194" height="58" fill="#10131A" />
+  <rect x="666" y="20" width="194" height="2" fill="#27272A" />
+  <rect x="666" y="76" width="194" height="2" fill="#27272A" />
+  <rect x="666" y="20" width="2" height="58" fill="#27272A" />
+  <rect x="858" y="20" width="2" height="58" fill="#27272A" />
+  <rect x="678" y="32" width="6" height="6" fill="{theme['accent']}" class="led-1" />
+  <text x="692" y="39" fill="#F2F2F2" font-family="monospace" font-size="12" font-weight="bold">PUSHKAR_AI_LAB</text>
+  <text x="678" y="55" fill="#A1A1AA" font-family="monospace" font-size="10">21Y · AI / ML</text>
+  <text x="678" y="70" fill="{theme['accent']}" font-family="monospace" font-size="10">{theme['phase']} · PUNE, IN</text>
 
   <!-- Desk Surface -->
   <rect x="290" y="176" width="560" height="10" fill="#222633" />
@@ -251,11 +252,6 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="9
 with open("banner.svg", "w", encoding="utf-8") as f:
     f.write(svg)
 
-print(f"Updated banner.svg for {theme['phase']} ({time_str})")
-
-import re
-
-ts = now.strftime("%Y%m%d%H%M")
 with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
 
@@ -268,3 +264,5 @@ readme = re.sub(
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(readme)
+
+print(f"Updated banner.svg and README.md for {theme['phase']}")
