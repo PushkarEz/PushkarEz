@@ -1,18 +1,21 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PushkarEz/PushkarEz/main/banner.svg?v=202611181204" alt="Pushkar Shinde Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/PushkarEz/PushkarEz/main/banner.svg" alt="Pushkar Shinde — AI Engineering Lab" width="100%" />
 </p>
 
-<h1 align="center">Pushkar Shinde</h1>
-<p align="center"><b>Aspiring AI Engineer</b> &nbsp;·&nbsp; Python, Local LLMs &amp; Voice AI</p>
+<h1>Pushkar Shinde</h1>
 
-<p align="center">
+<p>
+  <b>Aspiring AI Engineer</b> &nbsp;·&nbsp; B.E. E&amp;TC @ <b>Savitribai Phule Pune University</b> (2027) &nbsp;·&nbsp; Pune, India
+</p>
+
+<p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=800&color=A3E635&center=true&vCenter=true&width=720&height=36&lines=B.E.+E%26TC+%40+Savitribai+Phule+Pune+University+(2027);Building+with+Python%2C+Flask%2C+Ollama+%26+RAG;Experimenting+with+Voice+AI+%26+Automation;Portfolio+%E2%86%92+pushkarez.vercel.app"
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=900&color=A3E635&center=false&vCenter=true&width=700&height=30&lines=%24+building+with+Python%2C+Flask%2C+Ollama+%26+RAG;%24+experimenting+with+Voice+AI+%26+local+LLMs;%24+exploring+crazy+ideas+%E2%86%92+shipping+working+products"
+    alt="Terminal typing animation"
   />
 </p>
 
-<p align="center">
+<p>
   <a href="https://pushkarez.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111214?style=flat-square&logo=vercel&logoColor=A3E635" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/pushkar-shinde1608/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/PushkarEz16"><img src="https://img.shields.io/badge/X-111214?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
@@ -21,49 +24,73 @@
   <img src="https://komarev.com/ghpvc/?username=PushkarEz&label=views&color=3B82F6&style=flat-square" alt="Profile views" />
 </p>
 
-<br/>
-
-Final-year **B.E. Electronics & Telecommunication** student at **Savitribai Phule Pune University** (class of 2027).
-
-I build with **Python**, **Flask**, **local LLMs**, and **Voice AI**—exploring ideas and turning interesting problems into working products.
+Final-year Electronics &amp; Telecommunication student stepping into AI engineering through hands-on Python builds, APIs, local LLMs, and automation.
 
 ---
 
-## Building
+### `// Projects`
 
-**[PhishGuard](https://bytex.onrender.com/)** · *Live* — AI-powered URL security analyzer using VirusTotal & Groq API, with breach, password, and extension tools.
-<sub>`Python` · `Flask` · `VirusTotal API` · `Groq API`</sub>
-
-**CipherX** · *Experimental* — local Python desktop voice assistant combining speech recognition (ASR), TTS, and Ollama for spoken replies and system automation.
-<sub>`Python` · `Ollama` · `Speech Recognition` · `TTS`</sub>
-
-**PDF Chat RAG** · *In Progress* — local document Q&A pipeline using PDF extraction, chunking, Sentence Transformers, FAISS, and Ollama.
-<sub>`Python` · `FAISS` · `Sentence Transformers` · `Ollama`</sub>
-
-**Python Execution Visualizer** · *Learning* — visual tool built to make step-by-step Python execution and variable state easier to understand.
-<sub>`Python`</sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://bytex.onrender.com/"><b>PhishGuard</b></a> &nbsp;·&nbsp; <code>Live</code><br/>
+      AI-powered URL security analyzer using VirusTotal &amp; Groq API, with breach, password, and extension tools.<br/><br/>
+      <code>Python</code> · <code>Flask</code> · <code>VirusTotal</code> · <code>Groq API</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>CipherX</b> &nbsp;·&nbsp; <code>Experimental</code><br/>
+      Local Python desktop voice assistant pairing speech recognition (ASR), TTS, and Ollama for spoken replies and OS automation.<br/><br/>
+      <code>Python</code> · <code>Ollama</code> · <code>ASR</code> · <code>TTS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>PDF Chat RAG</b> &nbsp;·&nbsp; <code>In Progress</code><br/>
+      Document Q&amp;A pipeline exploring PDF extraction, chunking, Sentence Transformers, FAISS search, and Ollama.<br/><br/>
+      <code>Python</code> · <code>FAISS</code> · <code>Sentence Transformers</code> · <code>Ollama</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>Python Execution Visualizer</b> &nbsp;·&nbsp; <code>Learning</code><br/>
+      Learning-focused Python tool built to visually explain step-by-step code execution and variable state.<br/><br/>
+      <code>Python</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Highlights
+### `// Milestones & Focus`
 
-- **Quantum Arena** — shortlisted at the 24-hour hackathon
-- **Code4EdTech Hackathon** — awarded a **25% scholarship**
-- **COEP Project Competition** — presented **EV Parking System**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Hackathons &amp; Competitions</b><br/><br/>
+      • <b>Quantum Arena</b> — Shortlisted (24h Hackathon)<br/>
+      • <b>Code4EdTech</b> — Awarded <b>25% Scholarship</b><br/>
+      • <b>COEP Competition</b> — Presented <b>EV Parking System</b>
+    </td>
+    <td width="50%" valign="top">
+      <b>Currently Exploring</b><br/><br/>
+      • Local LLMs &amp; prompt grounding (Ollama)<br/>
+      • RAG &amp; vector search (FAISS, Embeddings)<br/>
+      • Voice AI loops &amp; FastAPI / Supabase
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Stack
+### `// Stack`
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,html,css,flask,fastapi,supabase,git,github,vscode,postman&theme=dark&perline=11" alt="Tech Stack" />
 </p>
 
-<sub>Exploring &amp; using: `Ollama` · `RAG` · `FAISS` · `Sentence Transformers` · `NumPy` · `Pandas` · `Groq API`</sub>
+<sub>Also building with: `Ollama` · `RAG` · `FAISS` · `Sentence Transformers` · `NumPy` · `Pandas` · `Groq API`</sub>
 
 ---
 
-## Activity
+### `// Activity`
 
 <p align="center">
   <picture>
@@ -77,12 +104,10 @@ I build with **Python**, **Flask**, **local LLMs**, and **Voice AI**—exploring
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PushkarEz/PushkarEz/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PushkarEz/PushkarEz/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/PushkarEz/PushkarEz/output/pacman-contribution-graph-dark.svg" />
+    <img alt="Contribution animation" src="https://raw.githubusercontent.com/PushkarEz/PushkarEz/output/pacman-contribution-graph-dark.svg" />
   </picture>
 </div>
 
-<br/>
-
 <p align="center">
-  <sub><a href="https://pushkarez.vercel.app/">pushkarez.vercel.app</a> &nbsp;·&nbsp; <a href="mailto:pushkarshinde08@gmail.com">pushkarshinde08@gmail.com</a></sub>
+  <sub>Portfolio: <a href="https://pushkarez.vercel.app/">pushkarez.vercel.app</a> &nbsp;·&nbsp; <a href="mailto:pushkarshinde08@gmail.com">pushkarshinde08@gmail.com</a></sub>
 </p>
